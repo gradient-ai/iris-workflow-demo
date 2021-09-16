@@ -2,7 +2,7 @@ jobs:
   CloneRepo:
     uses: git-checkout@v1
     with:
-      url: https://github.com/Jameshskelton/workflow-test.git
+      url: https://github.com/gradient-ai/iris-workflow-demo
     outputs:
       repo:
         type: volume
