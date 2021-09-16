@@ -4,7 +4,7 @@ This tutorial is meant to be used in conjunction with the docs article at --inse
 
 ## Usage
 
-To do this tutorial, you need an account with Gradient. If you want to modulate the Workflow in anyway, ork this repo and make edits to the YAML or .py files.
+To do this tutorial, you need an account with Gradient. If you want to modulate the Workflow in anyway, fork this repo and make edits to the YAML or .py files.
 
 `git clone https://github.com/gradient-ai/iris-workflow-demo`
 
